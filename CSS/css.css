@@ -1,0 +1,21 @@
+.titu{
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(89, 89, 158);
+}
+
+.conversor1{
+    width: 500px;
+    margin: auto;
+
+}
+
+.resu{
+    text-align: center;
+    margin-top: 20px;
+
+    display: flex;
+    flex-direction: column;
+}
